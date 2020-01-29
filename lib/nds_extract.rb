@@ -6,7 +6,7 @@ require 'directors_database'
 def gross_for_director(director_data)
   result = 0
   director_data.each do |movie|
-    
+    result += 
   return result
 end
 
